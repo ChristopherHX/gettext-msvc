@@ -1,0 +1,3 @@
+LIBRARY libiconv
+EXPORTS
+locale_charset

@@ -1,0 +1,11 @@
+LIBRARY libintl
+EXPORTS
+libintl_gettext
+libintl_dgettext
+libintl_dcgettext
+libintl_ngettext
+libintl_dngettext
+libintl_dcngettext
+libintl_textdomain
+libintl_bindtextdomain
+libintl_bind_textdomain_codeset
